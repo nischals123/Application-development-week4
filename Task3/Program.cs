@@ -9,7 +9,7 @@ namespace Task3
             var demo = new ParameterDemo();
 
             int value = 5;
-            Console.WriteLine($"Initial value: {value}");
+            Console.WriteLine($"original value: {value}");
             demo.Increase(ref value);
             Console.WriteLine($"After Increase(ref): {value}");
 
