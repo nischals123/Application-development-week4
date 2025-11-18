@@ -1,0 +1,15 @@
+C:\Users\nisch\source\repos\week4\Task2\bin\Debug\net9.0\Task2.exe
+C:\Users\nisch\source\repos\week4\Task2\bin\Debug\net9.0\Task2.deps.json
+C:\Users\nisch\source\repos\week4\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+C:\Users\nisch\source\repos\week4\Task2\bin\Debug\net9.0\Task2.dll
+C:\Users\nisch\source\repos\week4\Task2\bin\Debug\net9.0\Task2.pdb
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.sourcelink.json
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.dll
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\refint\Task2.dll
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.pdb
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+C:\Users\nisch\source\repos\week4\Task2\obj\Debug\net9.0\ref\Task2.dll
