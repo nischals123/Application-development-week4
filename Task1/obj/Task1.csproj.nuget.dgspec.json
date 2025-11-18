@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nisch\\source\\repos\\week4\\Task1\\Task1.csproj": {}
+    "C:\\Users\\nisch\\source\\repos\\Week4\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nisch\\source\\repos\\week4\\Task1\\Task1.csproj": {
+    "C:\\Users\\nisch\\source\\repos\\Week4\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nisch\\source\\repos\\week4\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\nisch\\source\\repos\\Week4\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\nisch\\source\\repos\\week4\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\nisch\\source\\repos\\Week4\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\nisch\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nisch\\source\\repos\\week4\\Task1\\obj\\",
         "projectStyle": "PackageReference",
